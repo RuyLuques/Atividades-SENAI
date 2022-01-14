@@ -233,3 +233,23 @@ if(numero % 2 ===0){
 }else{
     console.log("14 é impar")
 }
+
+MAIS ANOTAÇÕES:
+var valorUm = 20;
+var valorDois = 20;
+var valorTres = 5;
+var valorQuatro = 10;
+var total;
+//total = valorUm + valorDois;
+//console.log( total);
+
+//SUBTRAÇÃO
+//total = valorDois - valorUm;
+//console.log(total);
+
+//MULTIPLICAÇÃO
+//total = valorUm * valorDois;
+//console.log(total);
+
+//total = (valorUm * valorDois) / (valorTres * valorQuatro);
+//console.log(total);
