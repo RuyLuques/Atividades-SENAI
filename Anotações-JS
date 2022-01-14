@@ -1,0 +1,235 @@
+var nome = 'Joaquim';
+var  vidas = 2;
+var municao = 4;
+
+console.log('nome' + '' + vidas + '' + municao);
+
+//calculo
+var valorum = 10;
+var valordois = 3;
+vat total;
+total = valorum + valordois;
+//total = valorum - valordois;
+
+console.log(total);
+
+//calculo
+total = 2 ** 2; //elevando o 2 ao quadrado
+console.log(total);
+
+//calculo da atividade anterior
+total = 10 % 2; //conta de divisão na realidade
+console.log(total);
+
+//calculo
+//descobrir se e par ou impar
+var num = 5;
+var numdois = 10;
+var numtres = 15;
+var total;
+
+total = num + numdois * numtres; // faz a multiplicação
+console.log(total);
+
+total = num + numdois * numtres;// faz a adição
+console.log(total);
+
+//exercicio
+var n1 = 1;
+var n2 = 2;
+var n3 = 3;
+var n4 = 4;
+var n5 = 5;
+var total;
+
+total = n1 + n2 + n3 + n4 + n5;
+console.log(total);
+
+//total = valorum - valordois;
+
+//console.log(total);
+
+//calculo
+//total = 2 ** 2; //elevando o 2 ao quadrado
+//console.log(total);
+
+//calculo da atividade anterior
+//total = 10 % 2; //conta de divisão na realidade
+//console.log(total);
+
+//calculo
+//descobrir se e par ou impar
+//var num = 5;
+// numdois = 10;
+//var numtres = 15;
+//var total;
+
+//total = num + numdois * numtres; // faz a multiplicação
+//console.log(total);
+
+//total = num + numdois * numtres;// faz a adição
+//console.log(total);
+
+//exercicio
+var n1 = 1;
+var n2 = 2;
+var n3 = 3;
+var n4 = 4;
+var n5 = 5;
+var total;
+
+total = n1 + n2 + n3 + n4 + n5;
+console.log(total);
+console.log(total / 5);
+
+/*
+Leia n1;
+Leia n2;
+Leia n3;
+Leia n4;
+Leia n5;
+*/
+
+total = n1 + n2 + n3 + n4 + n5; 
+imprima = (total);
+('Somei as variáveis da linha 27 á 31, depois calculei a média total')
+
+for(let i=0; i <11; i++){
+        console.log("2 x " + i + " = " +2*i);}*/
+        
+//exercicio web (fiz como adicional)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <input type="text" id="numero">
+    <button onclick="verifica();">Verificar</button>
+    <script>
+    function verifica(){
+        var num = document.getElementById("numero").value;
+        var int_num = Number(num);
+    
+        if(int_num%2 == 0)
+        {
+            alert ("par");
+        }else{
+            alert ("impar");
+        }
+    }
+</script>
+</body>
+</html>
+
+//exercicio (par e impar 1 aos 14)
+
+
+numero = 0
+if(numero % 2 ===0){
+    console.log("0 é par");
+}else{
+    console.log("0 é impar")
+}
+
+numero = 1
+if(numero % 2 ===0){
+    console.log("1 é par");
+}else{
+    console.log("1 é impar")
+}
+
+numero = 2
+if(numero % 2 ===0){
+    console.log("2 é par");
+}else{
+    console.log("2 é impar")
+}
+
+numero = 3
+if(numero % 2 ===0){
+    console.log("3 é par");
+}else{
+    console.log("3 é impar")
+}
+
+numero = 4
+if(numero % 2 ===0){
+    console.log("4 é par");
+}else{
+    console.log("4 é impar")
+}
+
+numero = 5
+if(numero % 2 ===0){
+    console.log("5 é par");
+}else{
+    console.log("5 é impar")
+}
+
+numero = 6
+if(numero % 2 ===0){
+    console.log("6 é par");
+}else{
+    console.log("6 é impar")
+}
+
+numero = 7
+if(numero % 2 ===0){
+    console.log("7 é par");
+}else{
+    console.log("7 é impar")
+}
+
+numero = 8
+if(numero % 2 ===0){
+    console.log("8 é par");
+}else{
+    console.log("8 é impar")
+}
+
+numero = 9
+if(numero % 2 ===0){
+    console.log("9 é par");
+}else{
+    console.log("9 é impar")
+}
+
+numero = 10
+if(numero % 2 ===0){
+    console.log("10 é par");
+}else{
+    console.log("10 é impar")
+}
+
+numero = 11
+if(numero % 2 ===0){
+    console.log("11 é par");
+}else{
+    console.log("11 é impar")
+}
+
+numero = 12
+if(numero % 2 ===0){
+    console.log("12 é par");
+}else{
+    console.log("12 é impar")
+}
+
+numero = 13
+if(numero % 2 ===0){
+    console.log("2 é par");
+}else{
+    console.log("13 é impar")
+}
+
+numero = 14
+if(numero % 2 ===0){
+    console.log("14 é par");
+}else{
+    console.log("14 é impar")
+}
