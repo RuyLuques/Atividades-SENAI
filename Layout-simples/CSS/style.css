@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(248, 202, 202);
+}
+
+h1{
+    text-align: center;
+    background-color: white;
+    border-radius: 6px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    text-align: center;
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button{
+    border-radius: 6px;
+    position:center;
+    padding: 7px 7px;
+    text-align: center;
+    margin: 10px 0px;
+}
+
+button a{
+    position:center;
+
+}
+
+img{
+    width: 50px;
+    margin: 10px 0px;
+}
+
+iframe{
+    margin: 10px 0px;
+}
+
+video{
+    margin: 10px 0px;
+    padding: 7px 7px;
+}
+
+button:hover{
+    cursor: pointer;
+    transition: all 1s;
+    background-color: rgb(200, 243, 9);
+}

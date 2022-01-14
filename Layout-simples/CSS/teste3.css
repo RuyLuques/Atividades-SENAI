@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(172, 224, 228);
+}
+
+h1{
+    text-align: center;
+    background-color: white;
+    border-radius: 6px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button{
+    border-radius: 6px;
+    position:center;
+    padding: 7px 7px;
+    text-align: center;
+    margin: 10px 0px;
+    padding: 7px 0px;
+}
+
+button a{
+    position:center;
+    margin: 10px 0px;
+    padding: 7px 7px;
+}
+
+img{
+    width: 50px;
+    margin: 10px 1px;
+    padding: 7px 7px;
+}
+
+iframe{
+    margin: 10px 0px;
+    padding: 7px 7px;
+}
+
+video{
+    margin: 10px 0px;
+    padding: 7px 7px;
+}
+
+button:hover{
+    cursor: pointer;
+    transition: all 1s;
+    background-color: rgb(200, 243, 9);
+}
