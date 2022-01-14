@@ -1,0 +1,256 @@
+LINK: https://material.angular.i
+o?theme=indigo-pink
+
+COMANDOS:
+
+C:\>cd project
+
+C:\project>cd project1
+O sistema não pode encontrar o caminho especificado.
+
+C:\project>npm install -g @angular/cli
+C:\Users\ALUNO-22\AppData\Roaming\npm\ng -> C:\Users\ALUNO-22\AppData\Roaming\npm\node_modules\@angular\cli\bin\ng.js
+
+> @angular/cli@13.1.2 postinstall C:\Users\ALUNO-22\AppData\Roaming\npm\node_modules\@angular\cli
+> node ./bin/postinstall/script.js
+
+? Would you like to share anonymous usage data with the Angular Team at Google under
+Google’s Privacy Policy at https://policies.google.com/privacy? For more details and
+how to change this setting, see https://angular.io/analytics. No
++ @angular/cli@13.1.2
+added 183 packages from 134 contributors in 100.29s
+
+C:\project>npm --version
+6.14.15
+
+C:\project>ng new atividade-angular
+? Would you like to add Angular routing? No
+? Which stylesheet format would you like to use? CSS
+CREATE atividade-angular/angular.json (3105 bytes)
+CREATE atividade-angular/package.json (1081 bytes)
+CREATE atividade-angular/README.md (1062 bytes)
+CREATE atividade-angular/tsconfig.json (863 bytes)
+CREATE atividade-angular/.editorconfig (274 bytes)
+CREATE atividade-angular/.gitignore (620 bytes)
+CREATE atividade-angular/.browserslistrc (600 bytes)
+CREATE atividade-angular/karma.conf.js (1434 bytes)
+CREATE atividade-angular/tsconfig.app.json (287 bytes)
+CREATE atividade-angular/tsconfig.spec.json (333 bytes)
+CREATE atividade-angular/.vscode/extensions.json (130 bytes)
+CREATE atividade-angular/.vscode/launch.json (474 bytes)
+CREATE atividade-angular/.vscode/tasks.json (938 bytes)
+CREATE atividade-angular/src/favicon.ico (948 bytes)
+CREATE atividade-angular/src/index.html (302 bytes)
+CREATE atividade-angular/src/main.ts (372 bytes)
+CREATE atividade-angular/src/polyfills.ts (2338 bytes)
+CREATE atividade-angular/src/styles.css (80 bytes)
+CREATE atividade-angular/src/test.ts (745 bytes)
+CREATE atividade-angular/src/assets/.gitkeep (0 bytes)
+CREATE atividade-angular/src/environments/environment.prod.ts (51 bytes)
+CREATE atividade-angular/src/environments/environment.ts (658 bytes)
+CREATE atividade-angular/src/app/app.module.ts (314 bytes)
+CREATE atividade-angular/src/app/app.component.html (23332 bytes)
+CREATE atividade-angular/src/app/app.component.spec.ts (989 bytes)
+CREATE atividade-angular/src/app/app.component.ts (221 bytes)
+CREATE atividade-angular/src/app/app.component.css (0 bytes)
+√ Packages installed successfully.
+warning: LF will be replaced by CRLF in .browserslistrc.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in .editorconfig.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in .gitignore.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in .vscode/extensions.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in .vscode/launch.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in .vscode/tasks.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in angular.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in karma.conf.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in package-lock.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/app/app.component.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/app/app.component.spec.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/app/app.component.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/app/app.module.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/environments/environment.prod.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/environments/environment.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/main.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/polyfills.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/styles.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/test.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tsconfig.app.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tsconfig.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tsconfig.spec.json.
+The file will have its original line endings in your working directory
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'ALUNO-22@KauanTeles.(none)')
+
+C:\project>ng add @angular/material
+The add command requires to be run in an Angular project, but a project definition could not be found.
+
+C:\project>ng add @angular/material
+The add command requires to be run in an Angular project, but a project definition could not be found.
+
+C:\project>cd site
+O sistema não pode encontrar o caminho especificado.
+
+C:\project>cd project1
+O sistema não pode encontrar o caminho especificado.
+
+C:\project>ng add @angular/material
+The add command requires to be run in an Angular project, but a project definition could not be found.
+
+C:\project>cd project1
+O sistema não pode encontrar o caminho especificado.
+
+C:\project>cd project
+O sistema não pode encontrar o caminho especificado.
+
+C:\project>cd atividade-angular
+
+C:\project\atividade-angular>ng add @angular/material
+i Using package manager: npm
+√ Found compatible package version: @angular/material@13.1.1.
+√ Package information loaded.
+
+The package @angular/material@13.1.1 will be installed and executed.
+Would you like to proceed? Yes
+√ Package successfully installed.
+? Choose a prebuilt theme name, or "custom" for a custom theme: Indigo/Pink        [ Preview: https://material.angular.io?theme=indigo-pink ]
+? Set up global Angular Material typography styles? Yes
+? Set up browser animations for Angular Material? Yes
+UPDATE package.json (1147 bytes)
+√ Packages installed successfully.
+UPDATE src/app/app.module.ts (423 bytes)
+UPDATE angular.json (3269 bytes)
+UPDATE src/index.html (584 bytes)
+UPDATE src/styles.css (181 bytes)
+
+C:\project\atividade-angular>code .
+
+C:\project\atividade-angular>ng start
+The specified command ("start") is invalid. For a list of available options,
+run "ng help".
+
+Did you mean "test"?
+
+C:\project\atividade-angular>ng s
+√ Browser application bundle generation complete.
+
+Initial Chunk Files   | Names         |  Raw Size
+vendor.js             | vendor        |   1.95 MB |
+polyfills.js          | polyfills     | 339.25 kB |
+styles.css, styles.js | styles        | 289.57 kB |
+main.js               | main          |  51.82 kB |
+runtime.js            | runtime       |   6.87 kB |
+
+                      | Initial Total |   2.63 MB
+
+Build at: 2022-01-10T22:23:04.051Z - Hash: f4991081acb95a44 - Time: 22493ms
+
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+
+
+√ Compiled successfully.
+NÃO PODE FECHAR O TERMINAL NODE.JS
+
+ABRIR EM OUTRA PORTA NO NAVEGADOR
+Your environment has been set up for using Node.js 14.17.6 (x64) and npm.
+
+C:\Users\ALUNO-22>cd..
+
+C:\Users>cd..
+
+C:\>cd project
+
+C:\project>cd atividade-angular
+
+C:\project\atividade-angular> ng s --port 333 -o (-o ele vai abrir o browser direto no navegador padrão)
+
+CRIAR PASTA 
+
+C:\project>cd atividade-angular
+
+C:\project\atividade-angular>ng g c componentes
+CREATE src/app/componentes/componentes.component.html (26 bytes)
+CREATE src/app/componentes/componentes.component.spec.ts (661 bytes)
+CREATE src/app/componentes/componentes.component.ts (295 bytes)
+CREATE src/app/componentes/componentes.component.css (0 bytes)
+UPDATE src/app/app.module.ts (525 bytes)
+
+IMPORTAÇÃO DO MATERIAL
+https://material.angular.io/components/toolbar/api
+import {MatToolbarModule} from '@angular/material/toolbar';
+
+<router-outlet></router-outlet>
+
+CRIAR RODAPÉ
+ng g c footer
+
+RESUMINDO:
+
+C:\project>cd atividade-angular
+
+C:\project\atividade-angular>ng g c componentes
+CREATE src/app/componentes/componentes.component.html (26 bytes)
+CREATE src/app/componentes/componentes.component.spec.ts (661 bytes)
+CREATE src/app/componentes/componentes.component.ts (295 bytes)
+CREATE src/app/componentes/componentes.component.css (0 bytes)
+UPDATE src/app/app.module.ts (525 bytes)
+
+C:\project\atividade-angular>ng g c portfolio
+CREATE src/app/portfolio/portfolio.component.html (24 bytes)
+CREATE src/app/portfolio/portfolio.component.spec.ts (647 bytes)
+CREATE src/app/portfolio/portfolio.component.ts (287 bytes)
+CREATE src/app/portfolio/portfolio.component.css (0 bytes)
+UPDATE src/app/app.module.ts (782 bytes)
+
+C:\project\atividade-angular>ng g c home
+CREATE src/app/home/home.component.html (19 bytes)
+CREATE src/app/home/home.component.spec.ts (612 bytes)
+CREATE src/app/home/home.component.ts (267 bytes)
+CREATE src/app/home/home.component.css (0 bytes)
+UPDATE src/app/app.module.ts (1017 bytes)
+
+C:\project\atividade-angular>ng g c footer
+CREATE src/app/footer/footer.component.html (21 bytes)
+CREATE src/app/footer/footer.component.spec.ts (626 bytes)
+CREATE src/app/footer/footer.component.ts (275 bytes)
+CREATE src/app/footer/footer.component.css (0 bytes)
+UPDATE src/app/app.module.ts (1099 bytes)
+
+C:\project\atividade-angular>
+
