@@ -1,0 +1,100 @@
+<mat-toolbar>
+  <div class="container">
+    <div class="form-1">
+      <p class="text-1">Tem uma vaguinha aí?</p>
+      <p class="text-2">
+        Nosso servidor Pessoas de Tech tem mais de 1.000 desenvolvedores
+        júniores querendo uma oportunidade.
+      </p>
+      <p class="text-3">
+        Tanto que alguns deles criaram esta plataforma para automatizar a
+        inserção de vagas lá no discord. Tem uma oportunidade? Preencha o
+        formulário abaixo.
+      </p>
+      <button onclick="mudaBotao()" value="click" class="btn-1 value=”Clique aqui”">Opa, vamos lá!</button>
+    </div>
+    <div class="form-2">
+      <p class="text-4">É rapidinho</p>
+      <p class="text-5">
+        Criamos este formulário para você adicionar a sua vaga.
+      </p>
+
+      <form method="get" action="envio_dados.angular">
+        <div>
+          <label
+            >Cargo *
+            <input
+              type="text"
+              name="Cargo"
+              placeholder="Nome da empresa que você representa"
+            />
+          </label>
+          <label
+            >Empresa *
+            <input
+              type="text"
+              name="Empresa"
+              placeholder="Você receberá a confirmação se a vaga foi cadastrada"
+            />
+          </label>
+          <label
+            >E-mail *
+            <input
+              type="email"
+              name="E-mail"
+              placeholder="Ex: Desenvolvedora Java Jr"
+            />
+          </label>
+          <label
+            >Link da vaga *
+            <input
+              type="text"
+              name="Link da vaga"
+              placeholder="www.sitedaempresa.com.br"
+            />
+          </label>
+          <label
+            >A vaga é remota *
+            <input
+              type="radio"
+              name="A vaga é remota"
+              placeholder="Ex: Desenvolvedora Java Jr"
+            />
+          </label>
+          <label
+            >A vaga é híbrida/presencial *
+            <input
+              type="radio"
+              name="A vaga é remota"
+              placeholder="Ex: Desenvolvedora Java Jr"
+            />
+          </label>
+          <label
+            >Experiência mínima *
+            <input
+              type="text"
+              name="Experiência"
+              placeholder="Ex: Iniciante, Júnior, Pleno"
+            />
+          </label>
+          <label
+            >Salário a partir de *
+            <input
+              type="number"
+              name="Salário a partir de"
+              placeholder="R$ 1.500,00"
+            />
+          </label>
+          <label
+            >Até *
+            <input
+              type="number"
+              name="Até"
+              placeholder="R$ 50.000,00"
+            />
+          </label>
+        </div>
+      </form>
+    </div>
+  </div>
+</mat-toolbar>
